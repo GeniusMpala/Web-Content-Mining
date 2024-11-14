@@ -1,2 +1,2 @@
 # Web-Content-Mining
-news clustering
+news clustering and streamlit deployment
